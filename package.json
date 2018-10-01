@@ -1,0 +1,11 @@
+{
+  "name": "tensecondsoffame",
+  "version": "1.0.0",
+  "description": "Live stream for 10 seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Zea",
+  "license": "ISC"
+}
